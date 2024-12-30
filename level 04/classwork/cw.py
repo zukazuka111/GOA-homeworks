@@ -1,0 +1,2 @@
+name="zuka"
+print (name)
